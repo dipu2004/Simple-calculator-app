@@ -1,2 +1,2 @@
-# Simple-calculator-app
- simple calculator app - HTML,CSS,JS
+# Scientific-calculator-app
+ scientific calculator app - HTML,CSS,JS
